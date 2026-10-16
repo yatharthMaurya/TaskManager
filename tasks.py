@@ -4,3 +4,6 @@ def remove_task(): pass
 def set_priority(): pass
 def update_task(): pass
 def update_task(): pass
+
+def set_due_date(): pass
+
